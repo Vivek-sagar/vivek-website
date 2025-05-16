@@ -11,7 +11,7 @@ const PersonalJourney = () => {
         <div className="max-w-3xl mx-auto">
           <div className="bg-white rounded-lg shadow-lg p-8 flex flex-col items-center">
             <Image
-              src="/biketrip.png"
+              src="/vivek-website/biketrip.png"
               alt="Cross-country cycling trip"
               width={640}
               height={360}
