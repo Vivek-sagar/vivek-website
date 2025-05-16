@@ -10,9 +10,7 @@ const Contact = () => {
         <div className="max-w-4xl mx-auto">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div>
-              <h3 className="text-2xl font-semibold mb-4">
-                Contact Information
-              </h3>
+              <h3 className="text-2xl font-semibold mb-4">Contact</h3>
               <p className="text-gray-600 mb-6">
                 Feel free to reach out to me for any questions or opportunities.
                 I&apos;m always open to discussing new projects and ideas.
