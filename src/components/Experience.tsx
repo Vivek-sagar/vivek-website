@@ -31,7 +31,7 @@ const experiences: ExperienceItem[] = [
       "Phaser.js",
     ],
     link: "https://whack-a-me.com",
-    logo: "/vivek-website/pinelime.png",
+    logo: "/pinelime.png",
   },
   {
     title: "Senior Software Engineer, Games",
@@ -43,7 +43,7 @@ const experiences: ExperienceItem[] = [
       "Led game pod of engineers and artists to deliver launch title Proxima Atlas for new Synthesis Platform",
     ],
     technologies: ["TypeScript", "Pixi.js", "Colyseus", "Unity"],
-    logo: "/vivek-website/synthesis.png",
+    logo: "/synthesis.png",
   },
   {
     title: "Senior Computer Vision Engineer",
@@ -63,7 +63,7 @@ const experiences: ExperienceItem[] = [
       "Pytorch",
       "Tensorflow",
     ],
-    logo: "/vivek-website/osmo.png",
+    logo: "/osmo.png",
   },
   {
     title: "Software Engineer, Games",

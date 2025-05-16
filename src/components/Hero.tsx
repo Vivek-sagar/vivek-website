@@ -7,10 +7,10 @@ const Hero = () => {
       {/* Background Image */}
       <div className="absolute inset-0 w-full h-full -z-10">
         <Image
-          src="/vivek-website/banner.png"
+          src="/banner.png"
           alt="Hero Banner"
-          fill
-          style={{ objectFit: "cover" }}
+          layout="fill"
+          objectFit="cover"
           quality={80}
           priority
         />
