@@ -14,7 +14,7 @@ const contractProjects: ContractProject[] = [
     description:
       "Built the production-ready Orin platform for creating and configuring custom AI Agents, including embedded chat and feedback widgets. Developed backend infrastructure for voice interaction, document lookup, and conversation memory.",
     technologies: ["Node.js", "Vapi", "OpenAI APIs", "Next.js"],
-    icon: "/orin.png",
+    icon: "/vivek-website/orin.png",
   },
   {
     name: "Simili",
@@ -27,14 +27,14 @@ const contractProjects: ContractProject[] = [
       "Hume AI",
       "LiveKit",
     ],
-    icon: "/simili.png",
+    icon: "/vivek-website/simili.png",
   },
   {
     name: "CardStory",
     description:
       "Developed an innovative card game using phone camera for card detection and story generation. Added essential features including AR tracking, authentication, and story flow logic.",
     technologies: ["Unity", "iOS", "Maxst AR"],
-    icon: "/cardstory.png",
+    icon: "/vivek-website/cardstory.png",
   },
 ];
 

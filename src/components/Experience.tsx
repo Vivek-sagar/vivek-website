@@ -75,7 +75,7 @@ const experiences: ExperienceItem[] = [
       "Ported Osmo Vision SDK from iOS to Android",
     ],
     technologies: ["Unity", "iOS", "Android"],
-    logo: "/osmo.png",
+    logo: "/vivek-website/osmo.png",
   },
 ];
 
